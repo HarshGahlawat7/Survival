@@ -56,11 +56,7 @@ While based on Titanic-era data, this project demonstrates how AI can enhance **
 
 ---
 
-## 📸 Screenshot
 
-> *(Insert your Gradio app screenshot here — GitHub will display it beautifully if uploaded)*
-
----
 
 ## 📎 Tags
 
